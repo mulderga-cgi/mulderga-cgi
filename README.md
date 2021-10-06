@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Spring Cloud Data Flow
 - 💞️ I’m looking to collaborate on creating Streams and Tasks
 - 📫 How to reach me: e-mail (no social media)
+- 📼 Probably returning some video-tapes
