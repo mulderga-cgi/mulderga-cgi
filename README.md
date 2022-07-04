@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulderga-cgi
 - 👀 I’m interested in Java ☕️
-- 🌱 I’m currently learning Spring Cloud Data Flow
+- 🌱 I’m currently learning: OCP 17
 - 💞️ I’m looking to collaborate on creating Streams and Tasks
 - 📫 How to reach me: e-mail (no social media)
 - 📼 Probably returning some video-tapes
