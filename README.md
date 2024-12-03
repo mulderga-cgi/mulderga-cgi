@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulderga-cgi
 - 👀 I’m interested in Java ☕️
-- 🌱 I’m currently learning: OCP 17
+- 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on any Spring Cloud project
 - 📫 How to reach me: e-mail (no social media)
 - 📼 Probably returning some video-tapes
