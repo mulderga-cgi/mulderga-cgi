@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mulderga-cgi
+- 🧥 I'm selling these fine leather jackets
 - 👀 I’m interested in Java ☕️ and Python 🐍
 - 🌱 I’m currently learning OpenShift ⭕
 - 💞️ I’m looking to collaborate on any Cloud Native project
