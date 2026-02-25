@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mulderga-cgi
 - 👀 I’m interested in Java ☕️ and Python 🐍
 - 🌱 I’m currently learning OpenShift ⭕
-- 💞️ I’m looking to collaborate on any Spring Cloud project
-- 📫 How to reach me: e-mail (no social media)
+- 💞️ I’m looking to collaborate on any Cloud Native project
+- 📫 How to reach me: e-mail only
 - 📼 Probably returning some video-tapes
 - 🐒 Look behind you, a three-headed monkey!
